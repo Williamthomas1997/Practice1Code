@@ -21,7 +21,7 @@ namespace Form1
         {
             label1.Text = "Success";
             MessageBox.Show("Successfully added the message");
-            MessageBox.Show("Second Change");
+          
         }
 
         private void button3_Click(object sender, EventArgs e)
