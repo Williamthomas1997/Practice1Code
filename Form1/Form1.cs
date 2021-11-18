@@ -20,6 +20,7 @@ namespace Form1
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = "Success";
+            MessageBox.Show("Successfully added the message");
         }
     }
 }
