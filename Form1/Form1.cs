@@ -23,5 +23,10 @@ namespace Form1
             MessageBox.Show("Successfully added the message");
             MessageBox.Show("Second Change");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Press on the click button");
+        }
     }
 }
