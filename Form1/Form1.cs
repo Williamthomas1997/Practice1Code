@@ -33,5 +33,9 @@ namespace Form1
         {
             
         }
+        public void Vs()
+        {
+
+        }
     }
 }
