@@ -27,6 +27,7 @@ namespace Form1
         private void button3_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Press on the click button");
+            MessageBox.Show("Hi Tested in Visual Studio code");
         }
     }
 }
